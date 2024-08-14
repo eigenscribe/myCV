@@ -1,2 +1,2 @@
 # myCV
-[https://eigenscribe.github.io/myCV/](myCV)
+ 🔗[myCV](https://eigenscribe.github.io/myCV/)
